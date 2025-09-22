@@ -1,16 +1,118 @@
-## Hi there 👋
+# 👋 개발자 포트폴리오
 
-<!--
-**YOUSBEE/YOUSBEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! **도전을 두려워하지 않고 발전하는 개발자**, 변유송입니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 기술 스택
+
+### **Backend 개발**
+
+**🔥 상급**
+
+- **Python**: Flask, FastAPI 기반 웹 애플리케이션 개발, RESTful API 개발, MQTT 미들웨어 서버 구축, Cython을 활용한 코드 컴파일 등 다수 프로젝트 경험
+
+**📈 중급**
+
+- **Java**: 기본 문법 및 객체지향 프로그래밍, 간단한 애플리케이션 개발
+
+### **Frontend 개발**
+
+**🔥 상급**
+
+- **JavaScript**: ES6+, Ajax, DOM 조작, GIS 엔진 모듈화 등 다양한 프로젝트 적용
+- **Jinja2**: Flask 템플릿 엔진 활용한 동적 웹페이지 구현
+- **HTML**: 시맨틱 마크업, 웹 접근성 고려한 구조 설계
+- **CSS**: 반응형 웹 디자인, 크로스 브라우징, Flexbox/Grid 레이아웃
+
+**📈 중급**
+
+- **TypeScript**: 타입 안전성을 고려한 프론트엔드 개발
+- **React**: 컴포넌트 기반 개발, 상태 관리, 웹 솔루션 UI 개발
+- **Sass**: CSS 전처리기 활용, 변수 및 믹스인, 네스팅, 함수 사용
+
+### **Mobile 개발**
+
+**📊 중상급**
+
+- **Flutter**: 크로스플랫폼 모바일 앱 개발, WebView 연동, 카카오맵 API 연동, Socket.IO 실시간 통신
+
+### **Database 관리**
+
+**🔥 상급**
+
+- **MariaDB**: 대용량 데이터 관리, 성능 최적화, 인덱싱, 쿼리 튜닝
+
+**📊 중급 ~ 중상급**
+
+- **MySQL**: 기본 관리 및 쿼리 최적화, 데이터베이스 설계
+- **Oracle DB**: 기본 SQL 작성 및 데이터베이스 관리
+
+### **운영체제**
+
+**📊 중급 ~ 중상급**
+
+- **Windows**: PowerShell 스크립트, 시스템 관리, 서비스 설정, 네트워크 문제 해결
+- **Linux**: 쉘 스크립트, 서비스 관리, 로그 분석, 시스템 설정 및 최적화
+
+### **개발 도구 및 협업**
+
+**🔥 상급**
+
+- **Git**: 버전 관리, 브랜치 전략, 팀 협업 워크플로우 관리
+
+**📈 중급**
+
+- **Docker**: 컨테이너 기반 개발 환경 구성, 기본 배포
+
+### **특화 기술**
+
+**🔥 상급**
+
+- **데이터 처리**: 데이터 전처리, SQL 생성기 개발, 스크립트 자동화
+
+**📊 중급 ~ 중상급**
+
+- **MQTT**: MQTT 미들웨어 구현, IoT 디바이스 데이터 수신 및 실시간 처리, 대용량 데이터 스트림 처리
+- **OpenLayers**: GIS 기반 지도 서비스 개발
+- **Nginx**: 웹서버 기본 설정, 리버스 프록시 구성
+
+---
+
+## 💼 주요 프로젝트 경험
+
+### 🚦 LED 바닥 신호등 실시간 모니터링 시스템
+
+- **기술 스택**: Python, AWS IoT Core, MQTT, LoRa 통신
+- **담당 업무**: MQTT 기반 실시간 데이터 수집 미들웨어 개발
+- **성과**: 라이브러리 버전 충돌 문제 해결, 안정적인 실시간 모니터링 시스템 구축
+
+### 🌐 웹 솔루션 개발
+
+- **기술 스택**: Flask/FastAPI, JavaScript, MariaDB
+- **담당 업무**: RESTful API 설계 및 구현, 프론트엔드 개발
+- **성과**: 효율적인 데이터 처리 및 사용자 친화적 UI 구현
+
+---
+
+## 📚 학습 및 성장
+
+### 🎯 현재 학습 중
+
+- **Docker**: 컨테이너 기술 세미나 진행 및 실무 적용 준비
+- **ROS2**: 로봇 개발 환경 학습 예정
+- **CI/CD**: 배포 자동화 파이프라인 구축 학습 예정
+
+### 📖 학습 기록
+
+- [Docker 기술 세미나 자료](./docker-learning.md)
+- 지속적인 기술 블로그 작성 및 지식 공유 예정
+
+---
+
+## 📞 연락처
+
+- **Email**: ysb.am79@gmail.com
+- **GitHub**: https://github.com/YOUSBEE/YOUSBEE
+
+---
